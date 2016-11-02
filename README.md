@@ -1,2 +1,2 @@
 # C-From-Theory-to-Practice
-# Sample code for exercises
+Sample code for exercises
